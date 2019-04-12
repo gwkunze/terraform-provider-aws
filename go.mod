@@ -40,7 +40,7 @@ require (
 	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/pquerna/otp v0.0.0-20180813144649-be78767b3e39
 	github.com/spf13/pflag v1.0.3 // indirect
-	github.com/terraform-providers/terraform-provider-template v1.0.0
+	github.com/terraform-providers/terraform-provider-template/v2 v2.1.1
 	github.com/terraform-providers/terraform-provider-tls v1.2.0
 	google.golang.org/grpc v0.0.0-20171025225919-b5eab4ccac6d // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
